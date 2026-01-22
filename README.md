@@ -31,6 +31,4 @@ The assistant retrieves information from a curated set of PDF documents and uses
 ## How to Run (Google Colab recommended)
 
 1. Open the notebook in Google Colab
-2. Install required libraries:
-   ```bash
-   pip install langchain chromadb
+2. Obtain Gemini API free key from (https://ai.google.dev/)
